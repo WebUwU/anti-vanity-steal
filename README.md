@@ -1,20 +1,19 @@
-# 🛡️ Discord Vanity URL Guardian 🛡️
+<h1 align="center">🛡️ Discord Vanity URL Guardian 🛡️</h1>
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue?style=for-the-badge&logo=python)
 ![Discord](https://img.shields.io/badge/Discord-Selfbot-7289DA?style=for-the-badge&logo=discord)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Stargazers](https://img.shields.io/github/stars/WebUwU/anti-vanity-steal.svg?style=for-the-badge)](https://github.comWebUwU/anti-vanity-steal/stargazers)
+[![Stargazers](https://img.shields.io/github/stars/WebUwU/anti-vanity-steal.svg?style=for-the-badge)](https://github.com/WebUwU/anti-vanity-steal/stargazers)
 [![Forks](https://img.shields.io/github/forks/WebUwU/anti-vanity-steal.svg?style=for-the-badge)](https://github.com/WebUwU/anti-vanity-steal/network/members)
 
 </div>
 
 <p align="center">
-  <img src="https://i.imgur.com/YourCoolImage.png" alt="Vanity URL Guardian Logo" width="200">
+  <em>🚀 Protect your Discord server's vanity URL with cutting-edge technology and instant response!</em>
 </p>
 
-> 🚀 Protect your Discord server's vanity URL with cutting-edge technology and instant response!
 
 ## 🌟 Features
 
