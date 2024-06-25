@@ -5,8 +5,8 @@
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue?style=for-the-badge&logo=python)
 ![Discord](https://img.shields.io/badge/Discord-Selfbot-7289DA?style=for-the-badge&logo=discord)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Stargazers](https://img.shields.io/github/stars/WebUwU/anti-vanity-steal.svg?style=for-the-badge)](https://github.com/WebUwU/anti-vanity-steal/stargazers)
-[![Forks](https://img.shields.io/github/forks/WebUwU/anti-vanity-steal.svg?style=for-the-badge)](https://github.com/WebUwU/anti-vanity-steal/network/members)
+![Stargazers](https://img.shields.io/github/stars/WebUwU/anti-vanity-steal.svg?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/WebUwU/anti-vanity-steal.svg?style=for-the-badge)
 
 </div>
 
