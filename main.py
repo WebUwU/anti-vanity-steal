@@ -41,4 +41,4 @@ async def on_audit_log_entry_create(entry):
 
 if __name__ == "__main__":
     with console.status("[bold purple]Bot is waiting...[/bold purple]", spinner="dots"):
-        bot.run(token)
+        bot.run(token, log_handler=None)
